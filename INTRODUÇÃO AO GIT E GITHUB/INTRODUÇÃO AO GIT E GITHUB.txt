@@ -16,4 +16,9 @@ openssl sha1 texto.txt: verifica se o aquivo "texto.txt" foi modificado através
 COMO CLONAR UM REPOSITÓRIO DO GITHUB
 
 Ir no reposítório que quero clonar > clicar em "code" > copiar o link em HTTPS clicando no botão ao lado > 
-abrir o git Bash na pasta que quero clonar o repositótio
+abrir o git Bash na pasta que quero clonar o repositório > git clone e colar o link e dar enter 
+
+COMO ENVIAR UM REPOSITÓRIO EDITADO NA MINHA MÁQUINA P/ O GITHUB
+
+entrar na pasta do repositório > git add . > git status > git commit - m "escrever a mensagem" > git status>
+git push origin main
