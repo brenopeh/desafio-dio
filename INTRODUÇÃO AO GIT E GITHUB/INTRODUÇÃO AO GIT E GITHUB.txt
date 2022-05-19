@@ -13,9 +13,7 @@ rmdir workspace /S /Q : deleta a pasta workspace com os arquivos dentro, porém 
 openssl sha1 texto.txt: verifica se o aquivo "texto.txt" foi modificado através dos códigos que é gerado ao dar o comando sha1, se o código alterar é pq o arquivo sofreu alteração
 
 
+COMO CLONAR UM REPOSITÓRIO DO GITHUB
 
-da39a3ee5e6b4b0d3255bfef95601890afd80709
-bd95c45bc59f2759162bb01b5575cf357788cc88
-bd95c45bc59f2759162bb01b5575cf357788cc88
-
-
+Ir no reposítório que quero clonar > clicar em "code" > copiar o link em HTTPS clicando no botão ao lado > 
+abrir o git Bash na pasta que quero clonar o repositótio
