@@ -1,0 +1,21 @@
+INTRODUÇÃO AO GIT E GITHUB
+
+abrir CMD ou GIT e usr comandos
+
+dir: lista as pastas do diretório que estamos
+cd Windows: para entrar na pasta windows ou outra pasta que preferir
+cd .. : volta uma pasta antes
+cls: limpa a tela do programa
+mkdir workspace: cria uma pasta com o nome "worskspace"
+echo hello > hello.txt: cria um arquivo "hello txt dentro da pasta"
+rmdir workspace /S /Q : deleta a pasta workspace com os arquivos dentro, porém é necessário sair da pasta caso esteja dentro, usando o comando cd..
+
+openssl sha1 texto.txt: verifica se o aquivo "texto.txt" foi modificado através dos códigos que é gerado ao dar o comando sha1, se o código alterar é pq o arquivo sofreu alteração
+
+
+
+da39a3ee5e6b4b0d3255bfef95601890afd80709
+bd95c45bc59f2759162bb01b5575cf357788cc88
+bd95c45bc59f2759162bb01b5575cf357788cc88
+
+
